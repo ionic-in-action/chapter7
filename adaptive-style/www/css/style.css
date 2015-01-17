@@ -1,0 +1,21 @@
+.scroll {
+  text-align: center;
+  padding-top: 50px;
+}
+.ion-ionic {
+  font-size: 100px;
+  color: #fff;
+}
+.pane {
+  background: #333;
+}
+.platform-ios .pane {
+  background: #C644FC;
+  background: -webkit-linear-gradient(top, #C644FC 0%,#5856D6 100%);
+  background: linear-gradient(to bottom, #C644FC 0%,#5856D6 100%);
+}
+.platform-android .pane {
+  background: #C62828;
+  background: -webkit-linear-gradient(top, #C62828 0%,#F44336 100%);
+  background: linear-gradient(to bottom, #C62828 0%,#F44336 100%);
+}
