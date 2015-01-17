@@ -1,0 +1,8 @@
+.card {
+  position: relative;
+  left: 0;
+  /*height: 52px;
+  margin: 20px 10px;
+  transition: left .5s, height: .5s, margin: .5s;
+  -webkit-transition: left .5s, height .5s, margin: .5s;*/
+}
