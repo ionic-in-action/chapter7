@@ -1,7 +1,7 @@
 {
-  "name": "storage",
+  "name": "chapter6",
   "version": "1.0.0",
-  "description": "storage: An Ionic project",
+  "description": "chapter6: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^0.7.1",
