@@ -1,0 +1,20 @@
+#status {
+  position : fixed;
+  width: 100%;
+  font : bold 1em sans-serif;
+  color: #FFF:
+  padding : 0.5em
+}
+
+#log {
+  padding: 2.5em 0.5em 0.5em;
+  font: 1em sans-serif;
+}
+
+.online {
+  background: green;
+}
+
+.offline {
+  background: red;
+}

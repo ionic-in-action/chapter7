@@ -7,6 +7,7 @@ Here are the primary things we do in this chapter.
 * Change the default configuration for Ionic
 * Use gestures and events to create touch interactions
 * How to store data and persist between sessions
+* How to determine online status and listen when it changes
 
 ### Links
 
